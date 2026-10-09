@@ -164,37 +164,6 @@ Let `n` be the number of records.
 The insertion operation takes O(n) because the program
 traverses the list to find the last node.
 
----
-
-## Sample Input and Output
-
-Refer to [sample-output.txt](sample-output.txt).
-
----
-
-## How to Compile and Run
-
-### Using g++
-
-Compile:
-
-    g++ E-Waste-Collection-System.cpp -o ewaste
-
-Run on Windows:
-
-    ewaste.exe
-
-Run on Linux:
-
-    ./ewaste
-
-### Using an IDE
-
-Open the `.cpp` file in a C++ IDE, compile the program,
-and execute it.
-
----
-
 ## Applications
 
 - Electronic waste collection centres.
